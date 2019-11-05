@@ -3,7 +3,7 @@
 #include "renderSystem.h"
 #include "direction.h"
 
-// Level 
+// Level_1 
 const int kLevelRows = kScreenRows;
 const int kLevelColumns = 70;
 
